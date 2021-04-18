@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Food Event",
-  "short_name": "Foodies",
+  "name": "Budget-App",
+  "short_name": "Budget-App",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
-  "description": "An app that allows you to view upcoming food events.",
+  "start_url": "/",
+  "description": "An app that allows you to budget.",
   "background_color": "#01579b",
   "theme_color": "#ffffff"
 }
